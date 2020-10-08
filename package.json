@@ -1,0 +1,19 @@
+{
+  "name": "solar-system",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/firstSonOfFirstSon/solar-system.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/firstSonOfFirstSon/solar-system/issues"
+  },
+  "homepage": "https://github.com/firstSonOfFirstSon/solar-system#readme"
+}
