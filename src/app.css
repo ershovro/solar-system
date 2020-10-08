@@ -1,4 +1,3 @@
-
 html, body, #root {
     width: 100%;
     height: 100%;
@@ -8,4 +7,24 @@ html, body, #root {
 body {
     margin: 0;
     padding: 0;
+}
+
+.system {
+    width: 800px;
+    height: 500px;
+    margin: 0 auto;
+}
+
+.sun {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(253, 258, 195);
+    border-radius: 50%;
+}
+
+.earth {
+    width: 20px;
+    height: 20px;
+    background-color: rgb(91, 144, 204);
+    border-radius: 50%;
 }
